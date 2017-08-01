@@ -9,4 +9,6 @@ Project 3: Starting one activity from another activity.
 
 Project 4: Passing data from one activity to other activity.
 
+Project 5: Creating a List View and Toast a message when User click on Item.
+
 
