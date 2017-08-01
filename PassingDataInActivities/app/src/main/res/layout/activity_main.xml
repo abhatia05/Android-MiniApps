@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ashishbhatia.passingdatainactivities.MainActivity">
+
+    <EditText
+        android:id="@+id/enterName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Your Name"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        android:layout_alignBottom="@+id/enterAge"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="76dp" />
+
+    <EditText
+        android:id="@+id/enterAge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Enter Your Age"
+        android:inputType="number"
+        android:textSize="24sp"
+        android:layout_above="@+id/button"
+        android:layout_alignLeft="@+id/enterName"
+        android:layout_alignStart="@+id/enterName"
+        android:layout_marginBottom="11dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:onClick="submit"
+        android:text="Submit to 2nd"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/enterName"
+        android:layout_alignStart="@+id/enterName" />
+</RelativeLayout>

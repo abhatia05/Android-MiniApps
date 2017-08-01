@@ -6,3 +6,7 @@ Project 1: Current Date Time Display.
 Project 2: Enter Text in Edit Field and Display Text. 
 
 Project 3: Starting one activity from another activity.
+
+Project 4: Passing data from one activity to other activity.
+
+
