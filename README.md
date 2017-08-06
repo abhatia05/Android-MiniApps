@@ -15,6 +15,10 @@ Project 6: Create a basic fragment.
 
 Project 7: Find Location Where I am using Google Map.
 
+Project 8: Play and Pause an MP3 song.
+
+Project 9: Click a pic and save the pic.
+
 
 
 
