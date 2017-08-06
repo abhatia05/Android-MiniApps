@@ -11,4 +11,6 @@ Project 4: Passing data from one activity to other activity.
 
 Project 5: Creating a List View and Toast a message when User click on Item.
 
+Project 6: Create a basic fragment. 
+
 
