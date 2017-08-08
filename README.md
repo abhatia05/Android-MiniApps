@@ -19,6 +19,8 @@ Project 8: Play and Pause an MP3 song.
 
 Project 9: Click a pic and save the pic.
 
+Project 10: Recycler View using Card View
+
 
 
 
