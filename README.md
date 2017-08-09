@@ -25,6 +25,8 @@ Project 11: Create Notification.
 
 Project 12: Saving file and data in Internal Storage.
 
+Project 13: Saving KEY-Value pair using Shared Preference.
+
 
 
 
