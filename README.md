@@ -31,6 +31,8 @@ Project 14: Performing CRUD Operation using SQLITE database.
 
 Project 15: Using Recycle view with local language. (Hindi)
 
+Project 16: Changing language using Application. (But its not advisable)
+
 
 
 
