@@ -29,6 +29,8 @@ Project 13: Saving KEY-Value pair using Shared Preference.
 
 Project 14: Performing CRUD Operation using SQLITE database.
 
+Project 15: Using Recycle view with local language. (Hindi)
+
 
 
 

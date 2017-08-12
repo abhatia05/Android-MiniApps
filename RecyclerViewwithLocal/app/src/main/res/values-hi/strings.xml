@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">रीसाइकल</string>
+    <string-array name="ItemNames">
+        <item>सवाल पूछें </item>
+        <item>उत्तर देखें</item>
+        <item>रेटिंग दीजिये</item>
+        <item>भाषा बदलें</item>
+        <item>बाहर निकलें</item>
+    </string-array>
+</resources>

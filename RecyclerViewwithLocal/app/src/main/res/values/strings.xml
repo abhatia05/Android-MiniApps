@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="ItemNames">
+        <item>Query</item>
+        <item>Answers</item>
+        <item>Rate Us</item>
+        <item>Change Language</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
