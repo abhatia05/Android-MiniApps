@@ -37,6 +37,8 @@ Project 17: Using Okhttp library to recieve JSON response.
 
 Project 18: Working with BroadCast Receiver. Trigger debug message if a phone call is received.
 
+Project 19: Authentication using FireBase. 
+
 
 
 
