@@ -39,6 +39,8 @@ Project 18: Working with BroadCast Receiver. Trigger debug message if a phone ca
 
 Project 19: Authentication using FireBase. 
 
+Project 20: Opening an email client from android app for sending email.
+
 
 
 
