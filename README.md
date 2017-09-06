@@ -41,6 +41,9 @@ Project 19: Authentication using FireBase.
 
 Project 20: Opening an email client from android app for sending email.
 
+Project 21: Swap Events - Right to Left, Left to Right, Top to Bottom, Bottom to Top.
+
+
 
 
 
