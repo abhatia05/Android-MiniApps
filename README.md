@@ -41,7 +41,7 @@ This Repo will be having android mini projects.  Created using Java/Android Stud
 
 **Project 20:** Opening an email client from android app for sending email.
 
-Project 21: Swap Events - Right to Left, Left to Right, Top to Bottom, Bottom to Top.
+**Project 21:** Swap Events - Right to Left, Left to Right, Top to Bottom, Bottom to Top.
 
 
 
